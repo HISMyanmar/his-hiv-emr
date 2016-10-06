@@ -4,11 +4,7 @@ KenyaEMR Distribution
 
 Overview
 --------
-Initial I-TECH work on an OpenMRS-based EMR for the Kenya MoH.
-
-Project homepage: https://sites.google.com/site/kenyahealthinformatics/
-
-Developer documentation: https://wiki.openmrs.org/display/projects/KenyaEMR+Distribution
+HISP INDIA 
 
 Installation
 ------------
