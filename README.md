@@ -1,4 +1,4 @@
-KenyaEMR Distribution
+EMR Distribution
 =====================================
 <a href="http://ci.kenyaemr.org/viewType.html?buildTypeId=bt2"><img src="http://ci.kenyaemr.org/app/rest/builds/buildType:bt2/statusIcon"/></a>
 
